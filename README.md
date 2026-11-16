@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/eskiu-lang/jni/actions/workflows/ci.yml"><img src="https://github.com/eskiu-lang/jni/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
+  <a href="https://github.com/eskiu-packages/jni/actions/workflows/ci.yml"><img src="https://github.com/eskiu-packages/jni/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
   <img src="https://img.shields.io/badge/version-0.1.0-6448d4" alt="Version 0.1.0">
   <img src="https://img.shields.io/badge/JNI-1.6%2B-orange" alt="JNI 1.6+">
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue" alt="License: MIT"></a>
@@ -77,7 +77,7 @@ eskiuc greeter.esk -o libhello.dylib      # a desktop JVM: .dylib, .so or .dll
 In an Eskiu package (Eskiu 0.14 or newer):
 
 ```bash
-eskiuc add jni --git https://github.com/eskiu-lang/jni --rev v0.1.0
+eskiuc add jni --git https://github.com/eskiu-packages/jni --rev v0.1.0
 ```
 
 ## License
